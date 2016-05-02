@@ -9,7 +9,7 @@
 void setup() {
     
     size(400,400);
-    frameRate(15);
+    frameRate(30);
     
     background(150, 200, 200);
     text("Click mouse to begin", 130, 280);
