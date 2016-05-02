@@ -12,7 +12,7 @@ Click and hold on the canvas.  That's it.
 
 **Why does this create a bell curve?**
 
-Given two size-sided dice, the sums of any roll have an expected likelihood.  For example:
+Given two normal six-sided dice, the sum of any roll has an expected likelihood.  For example:
 
 1.  There is exactly 1 way to sum to 2 (D1=1 & D2=1)
 2.  There are 2 ways to sum to 3 (D1=1 & D2=2, or D1=2 & D2=1)
